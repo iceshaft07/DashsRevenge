@@ -86499,3 +86499,4563 @@ Script 0126 -- Main, Line: 7:in `block in <main>'
 :1:in `rgss_main'
 Script 0126 -- Main, Line: 7:in `<main>'
 ruby:in `eval'
+-----
+Time: 2016-12-24 00:43:17 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x83a1594>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:43:17 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x83a0d4c>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:43:17 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x83a0644>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:43:17 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x839ff3c>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:43:17 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x839f668>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:43:17 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x830a108>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:43:17 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x830999c>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:43:17 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x8309294>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:43:17 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x8308a74>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:43:17 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x8308254>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:43:17 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x8307a34>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:43:17 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x830728c>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:43:17 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x8306a6c>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:43:17 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x83c70c8>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:43:17 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x83c68a8>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:43:17 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x83c6088>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:47:11 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x84318ec>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:47:11 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x836736c>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:47:11 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x8366c64>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:47:11 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x836655c>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:47:11 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x8365c88>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:47:11 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x8365580>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:47:11 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x8364e14>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:47:11 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x836470c>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:47:11 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x8363eec>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:47:11 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x83636cc>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:47:11 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x8444bf4>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:47:11 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x844444c>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:47:11 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x8443c2c>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:47:11 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x844340c>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:47:11 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x8442bec>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:47:11 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x84423cc>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:47:17 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x8322bcc>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:47:17 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x8322384>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:47:17 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x8321aec>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:47:17 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x82dd130>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:47:17 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x82dc7bc>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:47:17 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x82dbf38>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:47:17 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x82db7e0>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:47:17 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x82daed0>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:47:17 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x82da610>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:47:17 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x82d9c60>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:47:17 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x82d92b0>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:47:17 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x82d4a80>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:47:17 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x82d4260>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:47:17 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x82d3a40>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:47:17 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x82d3220>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:47:17 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x82d29d8>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:47:20 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x836597c>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:47:20 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x8365030>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:47:20 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x8364568>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:47:20 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x8363c80>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:47:20 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x83251ec>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:47:20 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x8324ae4>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:47:20 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x832438c>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:47:20 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x8323c84>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:47:20 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x83232ac>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:47:20 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x832299c>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:47:20 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x8321f9c>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:47:20 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x8321614>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:47:20 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x82dca3c>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:47:20 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x82dbeac>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:47:20 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x82db45c>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:47:20 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x82da9bc>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:50:18 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x84adc08>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:50:18 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x84ad3c0>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:50:18 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x84accb8>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:50:18 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x84ac5b0>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:50:18 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x84abcc8>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:50:18 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x84ab5c0>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:50:18 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x84aae54>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:50:18 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x84aa74c>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:50:18 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x84a9f2c>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:50:18 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x84a970c>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:50:18 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x84a8eec>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:50:18 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x84a8744>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:50:18 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x84a7f10>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:50:18 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x84a76f0>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:50:18 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x84a6ed0>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:50:18 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x84a66b0>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:52:12 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x84ff094>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:52:12 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x84fe84c>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:52:12 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x84fe144>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:52:12 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x84fda3c>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:52:12 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x84fd168>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:52:12 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x84fca60>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:52:12 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x84fc2f4>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:52:12 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x8505bec>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:52:12 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x85053cc>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:52:12 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x8504bac>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:52:12 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x850438c>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:52:12 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x8503be4>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:52:12 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x85033c4>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:52:12 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x8502ba4>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:52:12 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x8502384>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:52:12 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x8517b6c>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:53:36 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x83e4d58>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:53:36 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x83e4510>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:53:36 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x83e3e08>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:53:36 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x83e3700>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:53:36 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x83e2e2c>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:53:36 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x83e2724>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:53:36 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x83e1fb8>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:53:36 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x83e18b0>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:53:36 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x84b5f70>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:53:36 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x84b5750>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:53:36 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x84b4f30>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:53:36 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x84b4788>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:53:36 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x84b3f68>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:53:36 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x84b3748>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:53:36 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x84b2f28>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:53:36 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x84b2708>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:54:18 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x83bfd00>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:54:18 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x83bf4b8>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:54:18 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x83bedb0>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:54:18 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x83be6a8>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:54:18 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x83bddd4>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:54:18 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x83bd6cc>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:54:18 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x83bcf60>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:54:18 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x83bc858>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:54:18 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x848b054>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:54:18 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x848a834>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:54:18 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x848a014>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:54:18 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x848986c>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:54:18 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x848904c>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:54:18 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x848882c>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:54:18 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x848800c>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:54:18 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x84877ec>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:56:18 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x8504184>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:56:18 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x8503928>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:56:18 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x850320c>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:56:18 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x8502adc>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:56:18 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x85021f4>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:56:18 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x8501ad8>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:56:18 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x8501358>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:56:18 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x8500c3c>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:56:18 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x8500408>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:56:18 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x84ffbc0>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:56:18 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x84ff378>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:56:18 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x84feb94>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:56:18 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x84fe360>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:56:18 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x84fdb2c>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:56:18 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x84fd2f8>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:56:18 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x84fcac4>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:57:05 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x84f6340>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:57:05 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x84f5af8>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:57:05 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x84f53f0>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:57:05 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x84f4ce8>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:57:05 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x84f4414>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:57:05 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x84f3d0c>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:57:05 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x84f35a0>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:57:05 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x8500ea8>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:57:05 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x8500688>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:57:05 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x84ffe68>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:57:05 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x84ff648>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:57:05 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x84feea0>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:57:05 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x84fe680>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:57:05 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x84fde60>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:57:05 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x84fd640>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:57:05 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x8550e1c>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:59:21 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x854d3fc>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:59:21 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x854cbb4>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:59:21 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x854c4ac>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:59:21 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x854bda4>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:59:21 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x854b4d0>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:59:21 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x8435014>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:59:21 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x84348a8>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:59:21 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x84341a0>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:59:21 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x8433980>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:59:21 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x8433160>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:59:21 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x8432940>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:59:21 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x8432198>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:59:21 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x8431978>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:59:21 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x856cf40>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:59:21 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x856c720>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:59:21 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x856bf00>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:59:36 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x81cb8b4>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:59:36 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x81b6504>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:59:36 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x816b4dc>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:59:36 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x80b4aac>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:59:36 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x80ab600>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:59:36 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x809fa30>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:59:36 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x8090300>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:59:36 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x8084ed8>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:59:36 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x8068a94>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:59:36 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x8056768>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:59:36 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x803c9a8>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:59:36 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x8033d30>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:59:36 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x8011c58>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:59:36 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x7f37fbc>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:59:36 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x7f35fb4>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 00:59:36 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x7f34218>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 01:01:53 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x84285f8>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 01:01:53 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x8427db0>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 01:01:53 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x84276a8>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 01:01:53 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x8426fa0>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 01:01:53 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x84266cc>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 01:01:53 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x8425fc4>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 01:01:53 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x8425858>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 01:01:53 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x8425150>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 01:01:53 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x85213ec>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 01:01:53 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x8520bcc>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 01:01:53 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x85203ac>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 01:01:53 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x851fc04>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 01:01:53 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x851f3e4>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 01:01:53 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x851ebc4>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 01:01:53 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x851e3a4>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 01:01:53 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x851db84>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 01:02:07 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x84e3f60>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 01:02:07 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x84e3740>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 01:02:07 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x84e2f84>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 01:02:07 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x84e27c8>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 01:02:07 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x84e1f30>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 01:02:07 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x84e1788>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 01:02:07 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x84e0fcc>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 01:02:07 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x84e07fc>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 01:02:07 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x84dff28>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 01:02:07 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x84df618>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 01:02:07 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x84ded44>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 01:02:07 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x84de4e8>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 01:02:07 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x84ddca0>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 01:02:07 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x84dd444>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 01:02:07 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x84dcc24>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 01:02:07 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x84dc3f0>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 01:05:27 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x84fec98>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 01:05:27 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x84fe43c>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 01:05:27 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x84fdd20>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 01:05:27 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x84fd604>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 01:05:27 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x84fcd1c>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 01:05:27 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x84fc600>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 01:05:27 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x84fbe6c>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 01:05:27 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x84fb750>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 01:05:27 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x84faf08>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 01:05:27 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x84fa6d4>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 01:05:27 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x84f9ea0>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 01:05:27 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x84f96e4>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 01:05:27 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x84f8eb0>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 01:05:27 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x84f8668>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 01:05:27 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x84f7e34>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2016-12-24 01:05:27 +0000
+CRITICAL OBJECT #<Window_SaveFile:0x84f7600>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0110 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0110 -- Scene_File, Line: 59:in `initialize'
+Script 0110 -- Scene_File, Line: 59:in `new'
+Script 0110 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0110 -- Scene_File, Line: 15:in `start'
+Script 0100 -- Scene_Base, Line: 12:in `main'
+Script 0122 -- Debugger, Line: 246:in `main'
+Script 0006 -- SceneManager, Line: 23:in `run'
+Script 0127 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0127 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
